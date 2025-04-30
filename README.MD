@@ -1,5 +1,8 @@
-LOB_NR.1
+Lob. NR1
 Înțelegerea principiilor fundamentale ale Git
-Studierea bazelor Git.
-Folosirea GitHub pentru colaborare.
-CUNOASTEREA FUNDAMENTULUI GIT
+• Studierea bazelor Git.
+• Folosirea GitHub pentru colaborare.
+Folosirea GitHub 
+ 
+ 
+-----------
